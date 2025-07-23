@@ -1,16 +1,16 @@
 {
-    "TOKEN": "TOKEN",
-    "CLIENT_ID": "Bot_ID",
-    "GUILD_ID": "Server_ID",
+    "TOKEN": "MTM5NzY5NzI2NDc1NTAxOTkyNw.GTrRKC.nWwI-2Ho4ofyY7ToPZ2lHOGzvANihB3rl9BJ-w",
+    "CLIENT_ID": "1397697264755019927",
+    "GUILD_ID": "1396496201813196924",
     "options": [
         {
             "name": "Section Name",
-            "admins": ["ID", "ID"],
-            "image": "LINK",
+            "admins": ["713097487036186725", "ID"],
+            "image": "https://cdn.discordapp.com/icons/1396496201813196924/0f9d363017096c792ea3a2b4142eeabb.webp?size=4096",
             "emoji": "🛠️",
-            "logchannel": "ID",
-            "role": "ID"
+            "logchannel": "1397697536248119366",
+            "role": "1396824216321396756"
         }
     ],
-    "managerLogChannel": "ID"
+    "managerLogChannel": "1397697536248119366"
 }
